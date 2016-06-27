@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AngeeProject</string>
+    <string name="goToSettingsButtonText">Settings</string>
+    <string name="goToAngeeWebText">Find out more about Angee</string>
+    <string name="SettingsText">Settings</string>
+    <string name="musicSwitchText">Music Enabled</string>
+    <string name="LEDSwitchText">LED Enabled</string>
+    <string name="title_activity_report_alarm">ReportAlarm</string>
+    <string name="falseAlarmButtonText">EXIT</string>
+    <string name="confirmationQuestionText"></string>
+    <string name="checkBoxFalseAlarmText">Report false alarm</string>
+</resources>
