@@ -9,4 +9,5 @@
     <string name="falseAlarmButtonText">EXIT</string>
     <string name="confirmationQuestionText"></string>
     <string name="checkBoxFalseAlarmText">Report false alarm</string>
+
 </resources>
